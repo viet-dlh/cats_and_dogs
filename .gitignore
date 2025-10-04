@@ -1,0 +1,7 @@
+# dataset
+data/
+
+# misc
+.DS_Store
+requirements.txt
+split_data.py

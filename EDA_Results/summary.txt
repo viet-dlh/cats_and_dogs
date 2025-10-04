@@ -1,0 +1,25 @@
+=== Dataset Summary ===
+Tổng số ảnh: 24998
+Số lượng ảnh Mèo: 12499
+Số lượng ảnh Chó: 12499
+
+--- Train/Test split ---
+split     label
+test      Cat      1251
+          Dog      1251
+train     Cat      9999
+          Dog      9999
+validate  Cat      1249
+          Dog      1249
+dtype: int64
+
+--- Kích thước ảnh (width x height) ---
+              width        height
+count  24998.000000  24998.000000
+mean     404.447196    360.989239
+std      108.999959     97.005417
+min        4.000000      4.000000
+25%      323.000000    302.000000
+50%      448.000000    375.000000
+75%      500.000000    421.000000
+max      500.000000    500.000000
