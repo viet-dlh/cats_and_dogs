@@ -1,4 +1,3 @@
-This is my first project related to AI hehe
+This is my first project related to AI.
 
-pip install -r requirements.txt
-conda activate cats_and_dogs
+In this project, I am going to build a classification model that distinguishes between cats and dogs, using a dataset obtained from Kaggle: [https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset].
